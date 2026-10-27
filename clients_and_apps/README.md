@@ -7,6 +7,7 @@ This is a list of hypersnap-compatible clients and applications.
 ## Index
 
 - [Clients](#clients)
+  - [Homiehouse](#homiehouse)
   - [GenyCaster](#genycaster)
   - [Linkcast](#linkcast)
   - [meowdy](#meowdy)
@@ -21,6 +22,13 @@ This is a list of hypersnap-compatible clients and applications.
 - [Add Your Project](#add-your-project)
 
 ## Clients
+
+### HomieHouse
+
+- Description: A client and learning hub powered by Hypersnap, with cast-based learning lessons.
+- Developer: [auntiehomie](https://github.com/auntiehomie)
+- Link(s): [website](https://homiehouse.app) | [source](https://github.com/auntiehomie/homiehouse)
+- Pure hypersnap? ✅ (Core social reads, writes, and signer authorization use Hypersnap. Operators can configure a personal node with Haatz as a fallback. AI and web search use separate providers.)
 
 ### GenyCaster
 - Description: GenyCaster is a high-performance, local-first Farcaster client with a cross-platform, multi-node architecture built for the next generation of social experiences.
